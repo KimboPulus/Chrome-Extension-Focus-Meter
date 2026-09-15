@@ -73,7 +73,7 @@ npm run package
 
 Automated and manual browser coverage is documented in
 [compatibility evidence](docs/compatibility.md). GitHub release ZIP is tested and
-checksummed; repository does not claim Chrome Web Store publication.
+checksummed;
 
 ## Current limitations
 
